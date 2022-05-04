@@ -1,7 +1,7 @@
 # ArtificialIntelligence_WeatherPrediction
 # WeatherPrediction
 
-This is the final project for the course of Artificial Intelligence(Spring-2022). This project is implemented by Phani Rupa Mamidala and Chandra Kumar Reddy Gade, Under the guidance of Shivanjali Khare.
+This is the final project for the course of Intro Artificial Intelligence-CSCI- 6660-02(Spring-2022). This project is implemented by Phani Rupa Mamidala and Chandra Kumar Reddy Gade, Under the guidance of Shivanjali Khare.
 
 ## Requirements
 Codes are run on Windows. It is based on Python 3.6. Required packages are stated below.
